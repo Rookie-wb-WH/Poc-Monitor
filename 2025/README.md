@@ -3695,6 +3695,7 @@
 - [predyy/totorum](https://github.com/predyy/totorum)	<img alt="forks" src="https://img.shields.io/github/forks/predyy/totorum">	<img alt="stars" src="https://img.shields.io/github/stars/predyy/totorum">
 - [DeDnY/CVE-2025-55182-in-docker](https://github.com/DeDnY/CVE-2025-55182-in-docker)	<img alt="forks" src="https://img.shields.io/github/forks/DeDnY/CVE-2025-55182-in-docker">	<img alt="stars" src="https://img.shields.io/github/stars/DeDnY/CVE-2025-55182-in-docker">
 - [H4R335HR/reactshell](https://github.com/H4R335HR/reactshell)	<img alt="forks" src="https://img.shields.io/github/forks/H4R335HR/reactshell">	<img alt="stars" src="https://img.shields.io/github/stars/H4R335HR/reactshell">
+- [zaryouhashraf/CVE-2025-55182](https://github.com/zaryouhashraf/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/zaryouhashraf/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/zaryouhashraf/CVE-2025-55182">
 
 ---
 ## CVE-2025-55130 ()
@@ -9242,6 +9243,7 @@
 - [InfoSecAntara/CVE-2025-14847-MongoDB](https://github.com/InfoSecAntara/CVE-2025-14847-MongoDB)	<img alt="forks" src="https://img.shields.io/github/forks/InfoSecAntara/CVE-2025-14847-MongoDB">	<img alt="stars" src="https://img.shields.io/github/stars/InfoSecAntara/CVE-2025-14847-MongoDB">
 - [im-hanzou/mongobleed](https://github.com/im-hanzou/mongobleed)	<img alt="forks" src="https://img.shields.io/github/forks/im-hanzou/mongobleed">	<img alt="stars" src="https://img.shields.io/github/stars/im-hanzou/mongobleed">
 - [sho-luv/MongoBleed](https://github.com/sho-luv/MongoBleed)	<img alt="forks" src="https://img.shields.io/github/forks/sho-luv/MongoBleed">	<img alt="stars" src="https://img.shields.io/github/stars/sho-luv/MongoBleed">
+- [zaryouhashraf/CVE-2025-14847](https://github.com/zaryouhashraf/CVE-2025-14847)	<img alt="forks" src="https://img.shields.io/github/forks/zaryouhashraf/CVE-2025-14847">	<img alt="stars" src="https://img.shields.io/github/stars/zaryouhashraf/CVE-2025-14847">
 
 ---
 ## CVE-2025-14783 ()
